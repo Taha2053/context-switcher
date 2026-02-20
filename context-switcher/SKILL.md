@@ -1,6 +1,6 @@
 ---
 name: context-switcher
-version: "1.0.0"
+version: 1.0.0
 description: Switches OpenClaw between life modes (Work/Focus, Personal, Creative, Do Not Disturb). Triggered by natural language or calendar events. Each mode reshapes notification filtering, memory surface, response style, and auto-restores when the session ends.
 homepage: https://github.com/Taha2053/context-switcher
 metadata:
